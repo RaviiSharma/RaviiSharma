@@ -40,3 +40,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raviisharma&show_icons=true&locale=en" alt="raviisharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raviisharma&" alt="raviisharma" /></p>
+
+![snake gif](https://github.com/RaviiSharma/RaviiSharma/blob/output/github-contribution-grid-snake.gif)
