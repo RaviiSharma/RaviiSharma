@@ -1,20 +1,26 @@
 [![MasterHead](https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966)](https://rishavchanda.io)
+<h1 align="center">Hi 👋, I'm Ravi Kumar Sharma</h1>
+<h3 align="center">A passionate backend developer and code enthusiast from India.</h3>
 
-<h1 align="center">Hi <img alt="img" width="30" src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif">, I'm Ravi kumar Sharma</h1>
-<h3 align="center">A Passionate BackEnd Developer from Function-Up.</h3><br/>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raviisharma&label=Profile%20views&color=0e75b6&style=flat" alt="raviisharma" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raviisharma" alt="raviisharma" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/raviiisharmaaa" target="blank"><img src="https://img.shields.io/twitter/follow/raviiisharmaaa?logo=twitter&style=for-the-badge" alt="raviiisharmaaa" /></a> </p>
 
 - 🔭 I’m currently working on [my Git Repository.](https://github.com/RaviiSharma?tab=repositories)
 
 - 🌱 I’m currently learning **MERN Stack, ReactJs and C++**
 
-- 👨‍💻 All of my projects are available at [https://ravikumarsharma-portfolio.netlify.app/](https://ravikumarsharma-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://ravikumarsharma-portfolio.netlify.app/)
+
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y8MJGx7HaelcFYphKFPZADzNhYeKxw8s/view)
 
 - 💬 Ask me about **Web Development, Javascript, Html, Css, NodeJs, Express, DSA and GitBash**
 
 - 📫 How to reach me **engineerravi036@gmail.com**
 
-- ⚡ Fun fact **I think I am funny.**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
