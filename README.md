@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at [portfolio](https://ravikumarsharma-portfolio.netlify.app/)
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Y8MJGx7HaelcFYphKFPZADzNhYeKxw8s/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kI6Md3-Ycft61QPG18Cdm4HX9mpBgNLq/view)
 
 - 💬 Ask me about **Web Development, Javascript, Html, Css, NodeJs, Express, DSA and GitBash**
 
