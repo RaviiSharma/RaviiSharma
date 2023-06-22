@@ -1,7 +1,7 @@
 ![MasterHead](https://i1.wp.com/mir-s3-cdn-cf.behance.net/project_modules/1400/9bc27292880429.5e569ff84e4d0.gif)
 
 <h1 align="center">Hi 👋, I'm Ravi Kumar Sharma</h1>
-<h3 align="center">A passionate backend developer and code enthusiast from India.</h3><br/>
+<h3 align="center">A passionate software developer and code enthusiast from India.</h3><br/>
 <img align="right" alt="Coding" width="400" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 
@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [my Git Repository.](https://github.com/RaviiSharma?tab=repositories)
 
-- 🌱 I’m currently learning **MERN Stack, ReactJs and C++**
+- 🌱 I’m currently learning **MySQL,Node,Knex and Java**
 
 - 👨‍💻 All of my projects are available at [portfolio](https://ravikumarsharma-portfolio.netlify.app/)
 
